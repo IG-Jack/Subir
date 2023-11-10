@@ -1,0 +1,7 @@
+{
+  "name": "AppFigma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
